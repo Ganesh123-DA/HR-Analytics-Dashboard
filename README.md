@@ -1,2 +1,2 @@
 # HR-Analytics-Dashboard
-Interactive HR Analytics Dashboard built using Tableau and SQL to analyze employee attrition, workforce trends, job satisfaction, and key HR metrics
+Developed an interactive HR Analytics Dashboard in Tableau using SQL to analyze 50K+ employee records and uncover insights related to employee attrition, work-life balance, promotions, income trends, and departmental performance.
