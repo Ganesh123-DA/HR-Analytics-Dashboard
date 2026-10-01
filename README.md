@@ -122,3 +122,11 @@ Analysis included:
 ## 🏁 Conclusion
 
 This dashboard helps HR teams identify workforce trends, improve employee retention strategies, and support data-driven decision-making.
+
+---
+
+## 📂 Project Files
+
+- [Download Tableau Dashboard Workbook](./HR%20DASHBOARD.twbx)
+- [Download HR Dataset](./CSV_HR_DATA.csv)
+- [View SQL Queries](./sql)
